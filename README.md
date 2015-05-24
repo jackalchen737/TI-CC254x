@@ -21,6 +21,7 @@ MySimpleBLEPeripheralBroadcaster
 	http://thinkingiot.blogspot.tw/2015/05/ti-cc254x-peripheral-broadcaster.html
 
 MyUARTBridge
+
 	This is modified version of UART2BLE Bridge of TI CC254x
 	For detail please refer to the URL below:
 	http://thinkingiot.blogspot.tw/2015/04/ti-cc254x-ble-spp-serial-port-profile-1.html
