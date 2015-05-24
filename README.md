@@ -1,4 +1,4 @@
-[MySimpleBLEPeripheralWithSerialInterface]
+MySimpleBLEPeripheralWithSerialInterface
 
 	This is modified version of serial interface for TI CC254x.
 	Original version can be found at 'http://processors.wiki.ti.com/index.php/SimpleBLEPeripheral_SerialInterface'.
@@ -14,7 +14,7 @@
 	For detail please refer to the URL below:
 	http://thinkingiot.blogspot.tw/2015/05/ti-cc254x-simplebleperipheral-with.html
 	
-[MySimpleBLEPeripheralBroadcaster]
+MySimpleBLEPeripheralBroadcaster
 
 	This is modified version of Peripheral + Broadcaster of TI CC254x
 	For detail please refer to the URL below:
