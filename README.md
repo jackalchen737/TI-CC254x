@@ -27,3 +27,8 @@ MyUARTBridge
 	http://thinkingiot.blogspot.tw/2015/04/ti-cc254x-ble-spp-serial-port-profile-1.html
 	http://thinkingiot.blogspot.tw/2015/05/ti-cc254x-ble-spp-serial-port-profile-2.html
 	
+MySimpleBLEPeripheralObserver
+
+	This is a modified version that add serial interface to control peripheral + observer example
+	For detail please refer to the URL below:
+	http://thinkingiot.blogspot.tw/2015/05/ti-cc254x-peripheral-observer.html
